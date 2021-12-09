@@ -1,0 +1,8 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const MAIN_ROUTE = '/'
+export const ART_ROUTE = '/art'
+export const MYART_ROUTE = '/my-art'
+export const MYLIKES_ROUTE = '/my-likes'
+export const ANY_ROUTE = '*'
